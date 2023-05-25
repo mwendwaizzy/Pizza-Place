@@ -1,0 +1,33 @@
+.form{
+    display: flex;
+    background-color: rgb(181, 247, 247);
+}
+.body{
+    background-color: rgb(198, 187, 250);
+}
+#img1{
+    size:500px; width: 200px;height:200px;
+    display: flex;
+
+}
+.icons{
+    width: 85px;
+    height: 85px;
+    margin: 20px;;
+
+}
+#images{
+    display: flex;
+    justify-content:center ;
+}
+#parent{
+    justify-content: center;
+    text-align: center;
+    background-color: rgba(67, 105, 56, 0.747);
+}
+#section2{
+    display: flex;
+    justify-content: space-around;
+    margin-top:40px ;
+    background-color: rgb(137, 187, 127);
+}
